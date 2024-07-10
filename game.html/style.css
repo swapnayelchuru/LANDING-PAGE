@@ -1,0 +1,76 @@
+.main{
+  width:1000px;
+  height:90vh;
+  background-position: center;
+  background-size:cover;
+  margin-left:250px;
+  margin-top: 35px;
+  background-image : url(1.jpeg);
+} 
+
+.logo{
+  display: flex;
+  align-items: center;
+  width: 80px;
+  height: 80px;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 50px;
+  margin-top: 20px;
+  border-color: rgb(76, 76, 152);
+
+}
+
+.navbar{
+  border-radius: 70px;
+  margin-left: 20px; 
+  display: flex;
+}
+.button{
+  margin-left: 450px;
+  margin-top: 30px;
+  display: inline-block;
+}
+
+.button a{
+  text-decoration: none;
+  color: yellow;
+  margin: 15px;
+}
+a.ESHU{
+  COLOR: rgb(66, 189, 237);
+}
+
+a:hover {
+  background-color: rgb(233, 164, 207);
+  padding: 5px;
+  color: skyblue;
+}
+ 
+h2{
+  color:rgb(40, 238, 231);
+  margin-left: 60px;
+  margin-top: 150px;
+  font-style: ROBOTO;
+  font-family: 'roboto',sans-serif;
+}
+
+p{
+  font-size: 12px;
+  margin-left:10px;
+  margin-top: 60px;
+
+}
+
+.swap{
+  color: whitesmoke;
+}
+
+button{
+  background-color: yellow ;
+  colour: black;
+  padding: 10px;
+  border-radius: 15px;
+  margin-left:70px;
+  margin-top: 8px;
+}
